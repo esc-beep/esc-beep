@@ -38,7 +38,7 @@
 | **FORZA** | 2021.03 ~ 2022.12 | 숙명여대 C언어 멘토링 학회 |
 | **SISS** | 2021.12 ~ 2023.12 | 숙명여대 정보보안학회, 2023년 운영진 |
 | **WhiteHat School** | 2023.08 ~ 2024.03 | 차세대 보안리더 양성 프로그램 1기 |
-| **Codeit Boost** | 2024.03 ~ ing | IT 부트캠프 동아리, 1st PM |
+| **Codeit Boost** | 2024.03 ~ 2025.02 | IT 부트캠프 동아리, 1st PM |
 | **AWS Cloud Club** | 2024.03 ~ ing | AWS 공식 대학생 커뮤니티, 2nd member, 3rd captain |
 | **Cloud Club** | 2024.09 ~ 2025.01 | 클라우드 인프라 스터디 대외 동아리, 6th member |
 
