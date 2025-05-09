@@ -32,7 +32,7 @@ My goal is to operate stable services through cloud-native technologies and auto
 ---
 
 ## 🎓 Experience  
-| 소속 및 단체             | 활동 기간          | 역할 및 내용  |
+| Organization | Period | Role & Description |
 | --------------------- | ----------------- | --------------------------------- |
 | **Sookmyung Women's University** | 2021.03 ~ ing | Major in Computer Science |
 | **School of Software Student Council** | 2021.03 ~ 2022.12 | Vice Representative of Computer Science |
@@ -46,10 +46,10 @@ My goal is to operate stable services through cloud-native technologies and auto
 ---
 
 ## 🚀 Featured Projects  
-| 기간              | 프로젝트명            | 내용          |
+| Period | Project Name | Description |
 | ----------------- | --------------------- | ------------- |
 | 2025.02 ~ ing | Snorose | 	“A community platform for Sookmyung students”, Cloud Infrastructure Lead, [Service Link](https://www.snorose.com/) |
-| 2024.12 ~ 2025.01 | 아보행 | “An anonymous diary to record small happiness”, PM, [GitHub](https://github.com/Simply-Ordinary-Fortune) |
+| 2024.12 ~ 2025.01 | Common-Fortune | “An anonymous diary to record small happiness”, PM, [GitHub](https://github.com/Simply-Ordinary-Fortune) |
 | 2024.10 ~ 2025.01 | Real-Friend Challenge | 	“A year-end quiz with friends”, Frontend & Infra, [GitHub](https://github.com/nunsongCookie) |
 | 2024.05 ~ 2024.06 | AI & MLOps Application | “MLOps implementation and real-time service using Amazon SageMaker”, ML & Infra, [GitHub](https://github.com/X-beagle/X-beagle-Mlops-Project) |
 
