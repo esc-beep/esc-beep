@@ -48,7 +48,7 @@ My goal is to operate stable services through cloud-native technologies and auto
 ## 🚀 Featured Projects  
 | Period | Project Name | Description |
 | ----------------- | --------------------- | ------------- |
-| 2025.02 ~ ing | Snorose | 	“A community platform for Sookmyung students”, Cloud Infrastructure Lead, [Service Link](https://www.snorose.com/) |
+| 2025.02 ~ ing | Snorose | 	“A community platform for Sookmyung students”, Cloud Infrastructure Lead, [Link](https://www.snorose.com/) |
 | 2024.12 ~ 2025.01 | Common-Fortune | “An anonymous diary to record small happiness”, PM, [GitHub](https://github.com/Simply-Ordinary-Fortune) |
 | 2024.10 ~ 2025.01 | Real-Friend Challenge | 	“A year-end quiz with friends”, Frontend & Infra, [GitHub](https://github.com/nunsongCookie) |
 | 2024.05 ~ 2024.06 | AI & MLOps Application | “MLOps implementation and real-time service using Amazon SageMaker”, ML & Infra, [GitHub](https://github.com/X-beagle/X-beagle-Mlops-Project) |
