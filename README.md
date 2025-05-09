@@ -1,7 +1,7 @@
 ## 💡 About Me  
 **DevOps & Infra Developer**  
-프로덕트의 성능과 확장성을 고민하며, 클라우드 인프라 및 DevOps 자동화에 관심이 많습니다.  
-클라우드 네이티브 기술과 자동화된 CI/CD 구축을 통해 안정적인 서비스 운영을 목표로 합니다.  
+I’m passionate about performance and scalability in product development, with a strong interest in cloud infrastructure and DevOps automation.
+My goal is to operate stable services through cloud-native technologies and automated CI/CD pipelines. 
 
 ---
 
@@ -34,24 +34,24 @@
 ## 🎓 Experience  
 | 소속 및 단체             | 활동 기간          | 역할 및 내용  |
 | --------------------- | ----------------- | --------------------------------- |
-| **숙명여자대학교** | 2021.03 ~ ing | 컴퓨터과학전공 |
-| **숙명여자대학교 소프트웨어학부 학생회** | 2021.03 ~ 2022.12 | 컴퓨터과학전공 부과대 |
-| **FORZA** | 2021.03 ~ 2022.12 | 숙명여대 C언어 멘토링 학회 |
-| **SISS** | 2021.12 ~ 2023.12 | 숙명여대 정보보안학회, 2023년 운영진 |
-| **WhiteHat School** | 2023.08 ~ 2024.03 | 차세대 보안리더 양성 프로그램 1기 |
-| **Codeit Boost** | 2024.03 ~ 2025.02 | IT 부트캠프 동아리, 1st PM |
-| **AWS Cloud Club** | 2024.03 ~ ing | AWS 공식 대학생 커뮤니티, 2nd member, 3rd captain |
-| **Cloud Club** | 2024.09 ~ 2025.01 | 클라우드 인프라 스터디 대외 동아리, 6th member |
+| **Sookmyung Women's University** | 2021.03 ~ ing | Major in Computer Science |
+| **School of Software Student Council** | 2021.03 ~ 2022.12 | Vice Representative of Computer Science |
+| **FORZA** | 2021.03 ~ 2022.12 | C Language Mentoring Club |
+| **SISS** | 2021.12 ~ 2023.12 | Information Security Club, 2023 Management |
+| **WhiteHat School** | 2023.08 ~ 2024.03 | 1st Cohort, Next-Generation Security Leader Program |
+| **Codeit Boost** | 2024.03 ~ 2025.02 | IT Bootcamp Club, 1st PM |
+| **AWS Cloud Club** | 2024.03 ~ ing | AWS Official University Community, 2nd member, 3rd captain |
+| **Cloud Club** | 2024.09 ~ 2025.01 | Cloud Infrastructure Study Group, 6th member |
 
 ---
 
 ## 🚀 Featured Projects  
 | 기간              | 프로젝트명            | 내용          |
 | ----------------- | --------------------- | ------------- |
-| 2025.02 ~ ing | 스노로즈 | "숙명인을 위한 커뮤니티 '스노로즈'", Infra |
-| 2024.12 ~ 2025.01 | 아보행 | "작은 행복을 기록하는 익명 다이어리", PM, [GitHub](https://github.com/Simply-Ordinary-Fortune) |
-| 2024.10 ~ 2025.01 | 찐친고사 | "친구들과 함께하는 연말고사", Frontend & Infra, [GitHub](https://github.com/nunsongCookie) |
-| 2024.05 ~ 2024.06 | AI & MLOps Application | "Amazon SageMaker를 활용한 MLOps 구성 및 실시간 서비스", ML & Infra, [GitHub](https://github.com/X-beagle/X-beagle-Mlops-Project) |
+| 2025.02 ~ ing | Snorose | 	“A community platform for Sookmyung students”, Cloud Infrastructure Lead, [Service Link](https://www.snorose.com/) |
+| 2024.12 ~ 2025.01 | 아보행 | “An anonymous diary to record small happiness”, PM, [GitHub](https://github.com/Simply-Ordinary-Fortune) |
+| 2024.10 ~ 2025.01 | Real-Friend Challenge | 	“A year-end quiz with friends”, Frontend & Infra, [GitHub](https://github.com/nunsongCookie) |
+| 2024.05 ~ 2024.06 | AI & MLOps Application | “MLOps implementation and real-time service using Amazon SageMaker”, ML & Infra, [GitHub](https://github.com/X-beagle/X-beagle-Mlops-Project) |
 
 ---
 
