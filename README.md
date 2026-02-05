@@ -60,6 +60,8 @@ My goal is to operate stable services through cloud-native technologies and auto
   - Chuncheon City, Gangwon Information & Culture Industry Promotion Agency, Sponsored by AWS | 2024.08 ~ 2024.09
 - AWS Public Sector Day Seoul 2024 Generative AI Unicorn Party GameDay Winner (1st place) 
   - AWS | 2024.07
+- Hanium Dream-up
+  - Hanium Dream-up | 2025.03 ~ 2025.11
 
 ---
 
