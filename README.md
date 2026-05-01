@@ -114,8 +114,7 @@ MediaPipe/OpenPose 기반 키포인트와 Transformer 모델을 활용해 한국
 
 ---
 
-## GitHub Stats
+## GitHub Summary
 
-![esc-beep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esc-beep&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esc-beep&layout=compact&theme=tokyonight)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esc-beep&theme=tokyonight)
+![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esc-beep&theme=tokyonight)
